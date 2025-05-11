@@ -13,5 +13,7 @@ public class Main {
         window.pack();
         window.setTitle("Snake Game");
         window.setVisible(true);
+
+        screen.startGame();
     }
 }
